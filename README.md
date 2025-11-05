@@ -262,7 +262,7 @@ Before model deployment, the following validation steps are necessary:
 
 **Stage 5 – Analysis & Recommendation:** Use the completed model to generate a final executive recommendation memo synthesizing quantitative results with qualitative strategic considerations.
 
-**Timeline:** Complete Excel model build by October 30, 2025, to align with hedge execution deadline and CFO approval process.
+**Timeline:** Complete Excel model build by November 20, 2025, to align with hedge execution deadline and CFO approval process.
 
 ---
 
